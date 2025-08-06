@@ -1,0 +1,22 @@
+ E-Commerce Delivery Analytics Dashboard (Power BI)
+
+This Power BI project visualizes delivery performance across different e-commerce platforms such as **Swiggy**, **Zomato**, **Blinkit**. It provides key insights on delivery time, customer ratings, order values, and platform-wise comparisons.
+
+## 📊 Features
+
+- Total Orders, Revenue, Average Delivery Time, and Ratings
+- Platform-wise performance comparison (Pie/Bar charts)
+- Delivery Time vs Customer Rating (Scatter plot)
+- Refund analysis by platform
+- Interactive filters: Platform, Time, Category
+
+## 🔍 Tools Used
+
+- Power BI
+- Excel / CSV for Data Source(dataset is from kaggle: https://www.kaggle.com/datasets/logiccraftbyhimanshi/e-commerce-analytics-swiggy-zomato-blinkit)
+
+
+## 🚀 How to Run
+
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
